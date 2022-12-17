@@ -9,7 +9,6 @@ cmake
 poco:enable_json=True
 poco:enable_jwt=False
 poco:enable_net=True
-poco:enable_netssl_win=False
 poco:enable_netssl=True
 poco:enable_pdf=False
 poco:enable_pagecompiler=False
